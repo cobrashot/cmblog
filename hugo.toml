@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://cobrashot.github.io/cmblog/"
 languageCode = "en-us"
 title = "My New CloudMosa Site"
 theme = "anatole"
