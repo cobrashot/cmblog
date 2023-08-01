@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New CloudMosa Site"
+theme = "anatole"
+enableEmoji = true
+[params]
+ title = "A Remote Browsing Blog"
+ author = "CloudMosa"
+ description = "Learn everything there is to know about Remote Browsing"
