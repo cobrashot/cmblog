@@ -1,9 +1,9 @@
 baseURL = "https://cobrashot.github.io/cmblog/"
 languageCode = "en-us"
-title = "My New CloudMosa Site on Hugo"
+title = "A Remote Browsing Blog by CloudMosa"
 theme = "anatole"
 enableEmoji = true
 [params]
- title = "A Remote Browsing Blog"
+ title = "A Remote Browsing Blog — Something for Everyone"
  author = "CloudMosa"
  description = "Learn everything there is to know about Remote Browsing"

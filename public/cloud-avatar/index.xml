@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud-avatars on A Remote Browsing Blog by CloudMosa</title>
+    <link>https://cobrashot.github.io/cmblog/cloud-avatar/</link>
+    <description>Recent content in Cloud-avatars on A Remote Browsing Blog by CloudMosa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cobrashot.github.io/cmblog/cloud-avatar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Avatar - The Remote Browser Platform of The Future</title>
+      <link>https://cobrashot.github.io/cmblog/cloud-avatar-remote-browser/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://cobrashot.github.io/cmblog/cloud-avatar-remote-browser/</guid>
+      
+        <description>A remote browser offers many benefits thanks to its three-tier architecture. Learn more about how it works in this article.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
