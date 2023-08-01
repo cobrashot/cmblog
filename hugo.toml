@@ -1,6 +1,6 @@
 baseURL = "https://cobrashot.github.io/cmblog/"
 languageCode = "en-us"
-title = "My New CloudMosa Site"
+title = "My New CloudMosa Site on Hugo"
 theme = "anatole"
 enableEmoji = true
 [params]
